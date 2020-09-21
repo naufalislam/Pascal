@@ -1,0 +1,6 @@
+program program_latihan;
+begin
+ writeln('program pertamaku');
+ writeln('Belajar pascal itu menyenangkan');
+ readln();
+end.
